@@ -6,8 +6,8 @@ import (
 	"log"
 	"os"
 
-	"github.com/captainpiratez/blog-aggregator/internal/config"
-	"github.com/captainpiratez/blog-aggregator/internal/database"
+	"github.com/captainpiratez/gator/internal/config"
+	"github.com/captainpiratez/gator/internal/database"
 	_ "github.com/lib/pq"
 )
 

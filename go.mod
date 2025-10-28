@@ -1,4 +1,4 @@
-module github.com/captainpiratez/blog-aggregator
+module github.com/captainpiratez/gator
 
 go 1.25.3
 
